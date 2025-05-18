@@ -13,9 +13,11 @@ body{
 main{
     background-color: white;
 }
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech&display=swap" rel="stylesheet">
+
 p{
     color: #444;
-    font-family: Arial, sans-serif;
+    font-family: "Share Tech", sans-serif;
     font-weight: 400;
     font-style: normal;
     line-height: 1.5;
