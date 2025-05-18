@@ -14,9 +14,17 @@ main{
     background-color: white;
     border-radius: 20px;
 }
-.p{
+p{
     line-height: 1.5px;
     color: #444;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "share tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    color: rgb(140, 76, 8)
+}
+h2{
+    color: rgb(140, 76, 8)
 }
 
