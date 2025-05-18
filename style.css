@@ -13,21 +13,8 @@ body{
 main{
     background-color: white;
 }
-ol{
-     color: #444;
-    font-family: "Share Tech", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    line-height: 1.5;
-}
-ul li{
-    color: #444;
-    font-family: "Share Tech", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    line-height: 1.5;
-}
-p{
+
+.font-global{
     color: #444;
     font-family: "Share Tech", sans-serif;
     font-weight: 400;
